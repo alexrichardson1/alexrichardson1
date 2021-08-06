@@ -40,7 +40,7 @@
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexrichardson1&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark&hide=issues,contribs" />
 
-<!-- <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrichardson1&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark&layout=compact" /> -->
+<img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrichardson1&show_icons=true&hide_border=true&theme=chartreuse-dark&layout=compact" />
 
 
 <!-- Links -->
