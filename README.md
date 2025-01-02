@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 - 🎓 **Education**: BEng in Computing from Imperial College London
-- 💼 **Current Role**: Fullstack Developer at Integrum ESG
+- 💼 **Current Role**: Founding Engineer at Tickup
 - ⚡ **Fun fact**: I enjoy playing video games!
 
 ## 🚀 My Skills
@@ -13,9 +13,9 @@
 ### Languages
 
 <p float="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="SQL" src="https://img.shields.io/badge/sql-4196f6?style=for-the-badge&logo=sql&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
