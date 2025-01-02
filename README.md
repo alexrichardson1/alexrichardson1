@@ -39,9 +39,9 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-## :chart_with_upwards_trend: GitHub Stats
+<!-- ## :chart_with_upwards_trend: GitHub Stats -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexrichardson1&show_icons=true&count_private=true&theme=chartreuse-dark" alt="alexrichardson1" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexrichardson1&show_icons=true&count_private=true&theme=chartreuse-dark" alt="alexrichardson1" /> -->
 
 <!-- Links -->
 
